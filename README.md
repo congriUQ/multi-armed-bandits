@@ -6,7 +6,7 @@ You can find an interactive explanation of the most popular Multi-Armed Bandit a
 
 ## Citation
 ```
-@article{Grigo2019,
+@article{Grigo2021,
 title = "Multi-Armed Bandit Simulator",
 year = "2021",
 url = "https://github.com/congriUQ/multi-armed-bandits",
